@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Photonics and Radiometry
 
-Repository for "Template".
+Repository for "Photonics and Radiometry".
 
 
 ## Use instructions
